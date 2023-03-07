@@ -63,8 +63,6 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7783
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7782
 #EXTINF:-1 group-title="BRASIL" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2017/04/tv-brasil-hd.jpg",BRA - TV BRASIL
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7769
-#EXTINF:-1 group-title="BRASIL" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png",BRA - TV GLOBO FHD
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7773
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Woohoo_logo_2014.png/250px-Woohoo_logo_2014.png",BRA - WOOHOO
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8327
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/477px-Logotipo_de_24_Horas_TVN.png",CHILE - 24 HORAS
@@ -73,8 +71,6 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/23237
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3853
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipo_de_Canal_13.png",CHILE - CANAL 13 HD
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/1145137
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png",CHILE - ESTADIO TNT
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/6979
 #EXTINF:-1 group-title="CHILE" tvg-logo="http://www.teletrak.cl/imagenes/logo.png",CHILE - TELETRAK
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3854
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png",CHILE - TNT SPORTS
@@ -137,8 +133,6 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8127
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8137
 #EXTINF:-1 group-title="•CINEMA PREMIUM•" tvg-logo="https://i.ibb.co/44Nw86c/starz-encore.jpg",CINP - STARZ IN BLACK
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8126
-#EXTINF:-1 group-title="•CINEMA PREMIUM•" tvg-logo="https://i.ibb.co/0F76c50/starz-fam.jpg",CINP - STARZ KIDS & FAMILY
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8133
 #EXTINF:-1 group-title="•CINEMA PREMIUM•" tvg-logo="https://i.ibb.co/k5ZHTL9/starz-encore-western.jpg",CINP - STARZ WESTERN HD
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8134
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://www.canalrcn.com/sites/all/themes/canalrcn/images/ico180x180.png",COL - RCN HD
@@ -161,8 +155,8 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/18594
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/9841
 #EXTINF:-1 group-title="CENTROAMERICA Y EL CARIBE" tvg-logo="http://cubanos.org.uk/images/cuba/cubavision_internacional_en_vivo.png",CUBA - CUBAVISION INTERNACIONAL
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/9842
-#EXTINF:-1 group-title="CENTROAMERICA Y EL CARIBE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Telerebelde2011.png",CUBA - TELEREBELDE
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/9843
+#EXTINF:-1 ,DESCARGA CINE CLIC+
+https://dl.dropboxusercontent.com/s/2vz9tw8ie1xfi6q/Untitled.mp4
 #EXTINF:-1 group-title="• ENTRETENIMIENTO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL.png",ENT - FOOD NETWORK
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4146
 #EXTINF:-1 group-title="• ENTRETENIMIENTO" tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW.jpeg",ENT -GARAGE TV
@@ -217,8 +211,6 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4109
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8246
 #EXTINF:-1 group-title="• FULL HD (1080 HQ)" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png",FHD - HBO XTREME
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8226
-#EXTINF:-1 group-title="• FULL HD (1080 HQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",FHD - NICKELODEON
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4058
 #EXTINF:-1 group-title="• FULL HD (1080 HQ)" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0055592.png",FHD - SONY
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4048
 #EXTINF:-1 group-title="• FULL HD (1080 HQ)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABs1BMVEX///8SFi8DCRX/lwMEChcMESUAAAD/HWwJDh8GDBsNEicKDyEPEykAAAwQFCsMEST4+fl2eH3X2NwJDipARFZlZ3UPEy3u7vAAAArKy84AACX/Zy0vMTf/SkYAABP/ZDAAAB3/WzcAABn/kQn/MFz/TUQUGTX/fhr/REv/WDr/Uz7/PlD/phkAABH/iBD/J2QtMEIAACb/eB//cCZLTVzk5OeGh4v/JGb/OFVfYWaeoKf/dSKUl6GztLt8fIaXmaRrbn1XWWu/wMYjJ0D/8fYPFSBNUVn/+fD/vWn/26//NoD/or81OEj/4NclKTipq67/3Of/x9n/6sz/s0X/0JP/ynv/6cj/qDv/vnb/nib/y4j/sFr/wXH/8eH/vF3/06T/n03/jib/uIj/nl3/1sD/u5n/scz/P3j/S2//VmX/YF7/aVf/c03/fUP/rCb/SoT/eaP/YJP/mDj/rnP/yZr/1OL/eKL/czj/nnX/olr/gFz/i3b/mJn/w7n/Zj7/dJL/rqT/i4j/cXb/vZT/ikH/5dz/V3z/i6BAQ0r/pIL/q7n/RGD/UR//pK//jLT/vcL/eW/Jdi6KAAATBUlEQVR4nO2djX/bRJrH7cQRdRI7shXrbY1W6yxpKVVxwDJYld3YTpy+GDvpclveArsH29JyvdKFAncL7MGyNMBee3/yzYzeZkYjWS7Jlu5nfp9+klijkear59G8eZ5pLsfFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXF9TRp70kX4KS1d/lJl+Ckde13T7oEJ63XFw+fdBFOVnuXNv7tSZfhZPX764vnnnQZTlbvLS4uXnvShThJ7b0BCN960qU4SV27Dgj/pWvTywBw8c3fP+linJz23thY/Nd202vnIODi2//knpuoKIptgx/iid8KOek/2U2V6sDp1Vrr661azxlUlfgZdjWzZj2ivXc2PMTXsxdQjN/GRgIWyWCSarc33tJ1XQICv7bWe9MqfY67nlWtWF5Kh56TLi5eyu6mVXBdSv1+v1bb7vXartNlGiXKfLEv6ZKcDyVL+mbLpcrZQ/xZtDmL0HfSxcXr2d1UY99LhwbZ2pKarZ6TdFtx2trE8QJIueUS1u/FT2JLHs4ifDcgXHwvO+Fm2u1lZJSexsqpbA/ZRQeMfbyox0e4dy4kfCOzm6YTegWWmm7cV+11PTGnrDcHJ0F4eSMkPJe5bzqbEEjSY3WA0tRTcwy7J0D4u4hwMfNIPxMhMAp1c6WfCggQmyHisRHuLWLKXJtmI4RGwe8utuVZ2fT14O09NsLLOOG5rCP9rIR5vW9HuQZNaXaGmnLMhO/ihJndNDOhLLfDNkDZzlJo/eLxEh5exwE33j1uQvBmhfXjYEhlkpHoDJueETM9jgyE720QNsw6IZWdMC/1fLcT21Q1A7sjm6BVoSDNnkeoy5hoKkwz+jRvbBCIGxndlCKUsX5NzCaBEasticwzbmuKaHe3ybdT0ofIr3tNXBQgkdZMIzz8w/kNgjHjSJ8iHEfd03W6yyLrfm+MzCNLtaBgg37YCwCParztNRjVQSRtQD6dzamGK62vf/mP5ynEbO0FUVp56IQJwCa1IVljSn512iV6M9J61Kmz/WZS1kHndMAqr1jDrylLs3qikf79/HkSMaObkoSbDp6muCSiPEQsoku8hlIbI6mOJcgn1aYJYz2FJNzKTHj4/unTFGK22jSNELCQNcMWcjuyopGx/hnQVJfMzd7AziXosQk/OH2aRnwzU22aSpir9gkjei8iRYh3soGfjodu2pjysQn/9FIcMdMQKp0w55KEqL0gvZSyoZg6ZH58wsP3L7z0UoAYEL5zDITdJu6m+jYidIj3cKs3zwRUAuGNK55u3rz5IdQtoNu3b3/00Uf/AXTnzp3PX34ZQwwYz83Qfx7OJNTW8QL5Xc3BFtFaDJ05EEnCcmjDg7vPQL3yyou/BXr11RdeOHPmzLPPnT179vnf/ObXv/7Vr15mIqbr7Wu0Dcv5TISowowkDemZmfltmMvtfxwgvogQEePPQnzzLVQTkTaMEVJe6vXblG29nC9D5dE/Se9P098+gjDKWC5j7+HO1bvHinj9stcjgIT+DeGPeE1TLkc0pt+pmaJSYtI3t7vZGH3CQERNc3Avhvjss889d/Z5CvE8Ud2wtXEpmObQNvEb0oSgtcCTTb/aBB1TCrGsN2vdLK9jGqHvqSHiCx7iWRLxNF2jMvV62KXT8imEoksUR94M+mdujLAsScMW0W5kIVzVqTf4BoV4ho04w4ob57DpVIJwlSLs5lcJE4bDfKWmEykeo2kMZ9qRsiFNmNu/y7Dic3MivoP3yTUZKypJqLgmUZpVPZrpHYzNVYaWjdaM91GpERljhLmdhzdZVjwbd9Q/v33pXRbfdbKrAwgxlXvRQMdtGlTxx9jM8DTPRFw1zVoqI0m4HCcEnno3g6P+4ZNPrx2+9yYD8BI14U8SrpolyypZJajGMlV4iei8OHlzmSkTPKZUQuJkVkt6/7N0xAvf/fDptb3c4SesRuMtujuuyexyMkq+Tk7uT5uNhDMbY8YceUDYmU0ImkZAmOSon3/x1WvwPfvgvxjt4vX4mDE74fJFOmvHWGLLlLaTejnAhsSZCecdXHkl3mgAxH/8t4eXy3363Wl6SAw8lDHXr5UTSkmrsR2rJhV31VhiPowls8X8Nof20kTC3P5nDCs+/xcfL7f3N1a7+DprXkOTswEaY5bj2dtLJvv8xjobEXhpFhsCXb1CI37z9yDt8IsLWKPhMyZ8p5iRsNFKeLO0/sRcWVqLackYMQsPCPHTGil9dtCJwxz19pchX+61O2TvBiEmfZGhleOli8mcVBKrDrFbmzQYz2TNYo4bKRumEeb2Hz7zoo9468v96Phrn8e74dcTv9nXpFnmWzPN1jStq6J0t9eMlbUV8ChW0A/4J/jRYHXiAOGKdwY6x0gdd4k3biLEnx7cxw5+9XW8j/p28rfe2nJQshW/bFEx4ZEVwzhqzxr+2YOa0Vih1WC9upAQUzoh8NTPgKP+9dFOdGTnf74O28XAin+MNYIkYYpAT7PjzFwDAgvebVkxRpUeiyFC4rRUL0VAV+/9uIN//hLrwPmIf76cNjdMEZ4irTCaaonzgnTRp031FKnGmEmIn5JSl/oScb7czjeMPuonqRfQlvAb7jbXiDKOE1o1NmN7iTTjKYaFSBtmICS08y0aaVBWfD+dcBkz26lJu2IRr8koqwm9i40N4gEZbRbhfDbEtX+LOT313QephSJsuDbVxkQJhPZca9Wqa0XCTTvHSrj/0wvMuZvTf0snxMu05uScXcIMaoZxOyaXeBcbR7HaVOngZi7OQ3jwYdJg6pPUmga3YREQgoeMMzfWksugVKf0OMk2icxHMScnCeex4cH3SYOpC6luStgQEua0CeFHaifhS6SBWxntHlFHxUkRU6POIsTPyE54cDNx1H/hpT+lEa7gN9yFLZgj4IeKlhvPZU8ro/qKZRgqhUASGsdHeHDzxeSJjQtfpLgpSbiC2uiRShhiQr6KotY7mhQNC5W0VCMvVy0RhEwvfRzCgyupo/7vXpuP0G4QpbDIUcKuIFhReonEbxP2N0bxMWXHegzCA9YkI94ufpVCeAq/4a7Xz5paBexgQSBGFjXCwsYE7xRUibSixWotcMLCzF5bBJg6d/NDspsShAWfUKkQzlZs4N8uDYQCLqsefWdRPVKJtFL8FQaE+BmZbAhcNAkxsOKdvyfm1k7hN/QJQVFLJAVmKGVClLFQ2q10q4ooKppD5ioUGCMHijCLDf0v3oIv375/8GEc8eXk9oJNmJtODPy4gPfeXNKIBUvYHVUqlc5RkQIs0W0JIiROykB4PwKEiH+9v3P/+/i7+ENi30trMAmBnxKFFSpRluqEIilYJVUQVIs6WhCmswgXZhPu33sG11U41Nh/gE34e4if7yRdIIGQ9tOChZV2KixkkTphPFdAiJ9TnDk+JACv3PCP/vhbylH/keimWhG/YUSYcwpEcUu7kZ8qlSyIlsAaeikdFT9plg1JwHuRoYCn+t1w34pfJBIaCYS5DokhHEUWqY6IYiaYkDksmZPwY4zv5kOC/QE10kh6EZMJlQnhTwsWNtjTjmYiqh3m0HI+wqu4AQ+oxEe3cCsmumkyIf26lepY92VwNMNR1Q677BRh+kzUDdyA+7Hk+w9exRD/Mj9hjnrdVLz3pqUjCgmAcxFiDeHdG6y6cud/f4oc9eukGeEUQpvyxRLee7MrQqKnWkIlafZjDsL7YS3zyr24AZHER99GiAl90zTCXNeyiIIX8ZlhsTsRyDc15BOSZ5CzE+48DC34MLGxAxVO9LXNYxAqbepVnBAFUty6pRLPAOCV1N3krwAgoVAKZalqMmHYG71CVzGkfgwQP2I/Bw2UMVSpQK82GQkWLqFOGkdxRvVdVYWXWADZwR+To3bq9JxSqeOaJBKKQT36cYKHhtr/1v9+ke2mGnHDOt3PmpLJ9UlsflBzQY+0Ptnd3Z3UR532zIVDVc2Lcpy17tlv6+9eTfbQ8NQvbyHEL5mpCrHOOjbDLVY1Soxr2NpgCtTVZqy8nEv32Y0gU6DCgYj/lzyE+iUKOSmjEWRr/xtQod5OGen/8gSd9AqzEUw4/0dgRbab/kK1Dzw0qwH9HLefLje9+kyGKobUzjdnniY3zVbFUHr06OR3BDg2zWtAT08RIBcXFxcXFxcXFxcXFxfXL1xidTB1nEGWldNPpaq91rg5HA6b41YvnK/v1qCiJTndPvxMxRiJ6KQaNaXsekfDLy7FKfrsr4gU/eRwgaTowI/b/qy14idHsokCPcb0dbWGNn1BW80AbfsXdOGee2YvvKBrwM/bZF6nAbM0qCVGfRPtI7MV5BVdeFoQrCv2vd0MW2HgJ9zeTw+2QLBrJrXNXlAgCRVgbkJxOtSxbTRkWfeDatHmGlsR4UUTbV5AZvY2dZE3Se+u6f5OByEhzLsVEnqZpF5EKOflZkhIbhQkbwWEeTmMS58H0NmUAjYf1Oz7hPmZhMG+TFQUil9GOR/6pQm3TiEJ89J4EBLm44SgNOjfzyXs+oDS1uZwKMEdbHR/b8EMhGKwl5TUYhGGO+N4NqQJ81u+x7EIZT2U+bMIq03fY1pudzCY9oa6Hmw9lIEw3LpBzhNfbgWEct6NCGM2BM7tfSsoxgnlZtsJpfwcwm3dA3Rt9CYp3fVwd0j0HuqphOieEihvOXynCMJgIyPxIpMQJCPzoH1lSEJpvZoTA+F3m5fQNlG4dyOK9q6GX0W6KCwdq0sb8DNOaMONDeQW/OmX1Ve04YG30ZjooLwUITzUDnfOiRPScvPl+QndBoqTbjHTUFIaYTe/ulrOuw56THhDWdNRmDwkzHcZhCgDegqm5hGCszFC+MRYhDLxyDNp3UyKPYdeCsqvV/zde20bPQ28PbQrILe5XtWay+B3B7szDG1fbvbL6OnZkNAAB6L2EN512IM/zaaYRCjGvBQ9kvkIxQkMbTfXmX01F4X8loOt4GQJBXFjhIOhd8BGQPjC+T4MGh5qLfgLvgGIcJUgXNbtJkSE65EBIXYB73LDftCj6QcbPnhOlbZiJK7qZBnGCrN3G3KXl5bJoE3w0YwW+YttFPYOqkNndQmgYg8XEUr2AJ6wVNYAoQUfRkQIDjeUqYmSQZXShn9hhOhZBhLckBAeno9QW4MFLzHiDeEFl9YYgcURoT1uLK2ZMBxTG5uAHYuRRqHtUjVXg3Hxjb6Yc0rwD4pQqcEwXXNbBITgD4xwCdwa0qO4cSMkBE94rTEvIYw7ZUVUwguiWOIoIM4LcY4Ipwb4bMBWQkQhtGbUSe83QEZAWF2FuSwnN1Vh3ogQFNWwc9pkZWlpBZC1zTWMsIPik8NoZiskhI98TsLq5NTKyil2bHPO9cNRA6EwWSMkFI9gRKK33NZZQ3GdYYPRh0lwPb+jwoSmPRVg3oCwBZMtG3QEDHjeqOqa4AKRDVGooxGswArj8NwleHg+QhHFSjUSahoYPmVU4Lb0UKKrEoQDFT6dCVq4063DaMhGOBzqGz6h0jJgxGZlIKyAa/nrmsQRvCsMTKqOYLyY6bom+BXZEB4cD8I94QMk9MjnJMy1UESaygw5RYTYukZXAJ+tkLBloaAyAQmFmZXCBqMD0opola0GIxuLkxpMt0JCwyfMTScoVK61RhM2jhjtIbrInIQuigYqjaIj0Z71LkxSKcIwYMoWvLA5IoIlKFUfEqL1i2LbgIgW+oETFgVIKFZgTGGjgR5DSGglERaJR55JthdkI4SVhNgNV2DGCeHngLBHRsp5lwlWz43gZS3kGdVRGE5UCgnhIUSY0+phLFZEWILBZQxCqkDZVBEKhWKxUGx7MzS2Uy+GVRcqNEFYKKh+SJQyMVBoVSAVRlwZa/7JMIqu4Pu+s2t40VgFNSQswaxeveSqfqxWISIEh9iEBUho032ddNkTFPJkGUdtZ+q0O8WSVfTrLtcLScEI4Wef0EG5JpW2rwoKyBH8dqcDL+pHNUTxRBEhSvYQxCBAxJhMI8JCIbp0u+2GhOC0o0ogRuALS8F6YlUt7u6qKlpMWxE9QvCBIISfPUIRLRkWwopWUSbwMqofTzRCp/r1l+YHXC0IOOGCT5jThAWYuGARhAuFkiqo3j9hHDxycOaCpfoSiAFbskRHDdY3B8uGhRVE5VrJhIM6TMSDGL1lyb5nEoThynqMEH6qkskYIbXYXj0KCXEJ8Zj6BHXrKr7uu6T6kdxphKhURBCAjdZV+68pSShO1DRC20vOQEgezk6Yq1bCdd8ltXAUdCHaqgo6FDgh7GAgBO0I/K0K+P+HoVRQcr3qEcLksJXtCuBK4EBIiJLDxzMtoeTdiLBEKAj7aaPzosPZCUGJ2506rBeL9U60H2bXe51F8jOqSwbeq050FDTvGHJcB/0ZWbhNnC+66FPYx1NcIllxKpTaeAEiZaxpfNlwUt+ZDvDGhq6RoyqaWVuLdDoza+ZkXOyEuQC5uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uEj9Pw5d/0YESDYqAAAAAElFTkSuQmCC",FHD - STAR CHANNEL HD
@@ -363,8 +355,6 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7447
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7529
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png",PAR - TIGO SPORTS 2
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7450
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png",PAR - TIGO SPORTS HD
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7435
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="http://images.mi.tv/channels/9ad73a64-1be6-4900-852d-4b7a480187ba_m.jpg",PAR - TVS
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7429
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://k60.kn3.net/C/E/6/A/F/6/9F3.png",PAR - UNICANAL
@@ -423,8 +413,6 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/23210
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8242
 #EXTINF:-1 group-title="REPÚBLICA DOMINICANA" tvg-logo="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2011/04/digital-15-1.png",RD - DIGITAL 15
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8243
-#EXTINF:-1 group-title="REPÚBLICA DOMINICANA" tvg-logo="http://canal27.com.do/wp-content/uploads/2017/11/logo-1.png",RD - RNN
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8239
 #EXTINF:-1 group-title="REPÚBLICA DOMINICANA" tvg-logo="http://www.elefete.com/wp-content/uploads/2018/04/telecentro.jpg",RD - TELECENTRO
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8244
 #EXTINF:-1 group-title="REPÚBLICA DOMINICANA" tvg-logo="https://pbs.twimg.com/profile_images/763373982624149504/_qhysU4N.jpg",RD - TELEMICRO CANAL 5
@@ -447,14 +435,8 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8255
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/22378
 #EXTINF:-1 group-title="US - ENTERTAINMENT" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png",US.EN - COMEDY CENTRAL
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/17178
-#EXTINF:-1 group-title="US - ENTERTAINMENT" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/TURBO-Logo-white_0.png",US.EN - DISCOVERY TURBO
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/17179
-#EXTINF:-1 group-title="US - ENTERTAINMENT" tvg-logo="https://images.hgmsites.net/med/velocity-tv-logo_100364023_m.jpg",US.EN - DISCOVERY VELOCITY
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/22375
 #EXTINF:-1 group-title="US - ENTERTAINMENT" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/diy-network-696x392.jpg",US.EN - DIY NETWORK
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/17414
-#EXTINF:-1 group-title="US - ENTERTAINMENT" tvg-logo="http://img2.wikia.nocookie.net/__cb20121013134331/milgreen/images/f/fe/E!_(Milgreen).png",US.EN - E! ENTERTAINMENT
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3764
 #EXTINF:-1 group-title="US - ENTERTAINMENT" tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.616.462.suffix/1505046804671.jpeg",US.EN - FOOD NETWORK
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/17413
 #EXTINF:-1 group-title="US - ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/HGTV_logo_2015.png",US.EN - HGTV
