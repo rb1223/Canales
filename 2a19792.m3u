@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,DESCARGA CINE CLIC+
-https://dl.dropboxusercontent.com/s/2vz9tw8ie1xfi6q/Untitled.mp4
+#EXTINF:-1 ,DESCARGA CC PLAYER M3U
+https://dl.dropboxusercontent.com/s/q3o0n35i0sxailk/Untitled%20CC.mp4
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/1
