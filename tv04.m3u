@@ -1,0 +1,771 @@
+#EXTM3U
+#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
+https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
+#EXTINF:-1,SONY CHANNEL
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/324
+#EXTINF:-1,CINE PREMIUM | DE PELICULA (P)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/325
+#EXTINF:-1,CINE PREMIUM | WARNER
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/326
+#EXTINF:-1,HBO PLUS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/327
+#EXTINF:-1,CINE PREMIUM |HBO FAMILY
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/328
+#EXTINF:-1,CINE PREMIUM | SPACE 
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/329
+#EXTINF:-1,CINE PREMIUM | TNT SERIES HD (A)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/330
+#EXTINF:-1,CINE PREMIUM | UNIVERSAL CHANNEL (E)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/331
+#EXTINF:-1,CINE PREMIUM | DHE
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/332
+#EXTINF:-1,CINE PREMIUM | Cinecanal
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/333
+#EXTINF:-1,CINE PREMIUM | STAR CHANNEL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/334
+#EXTINF:-1,TRU TV 
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/335
+#EXTINF:-1,CINE PREMIUM | GOLDEN (L)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/336
+#EXTINF:-1,CINE PREMIUM | HBO 2  (T)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/337
+#EXTINF:-1,CINE PREMIUM | TNT FHD (A)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/338
+#EXTINF:-1,HBO SIGNATURE
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/339
+#EXTINF:-1,Discovery ID
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/340
+#EXTINF:-1,Discovery TLC
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/341
+#EXTINF:-1,HGTV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/342
+#EXTINF:-1,CULT| ANIMAL PLANET FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/343
+#EXTINF:-1,CULT| DISCOVERY CHANNEL FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/344
+#EXTINF:-1,CULT DISCOVERY TURBO FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/345
+#EXTINF:-1,Discovery HOMA & HEALTH
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/346
+#EXTINF:-1,Discovery TLC
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/347
+#EXTINF:-1,CULT| HYSTORY 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/348
+#EXTINF:-1,CULT HISTORY
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/349
+#EXTINF:-1,WINSPORTS + PLUS SD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/350
+#EXTINF:-1,WIN SPORTS PLUS HD (ENCODER ANDRES)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/352
+#EXTINF:-1,WIN SPOTS PLUS SD OP2 (ENCODER CLARO)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/353
+#EXTINF:-1,DEPORTES LAT | TYC SPORTS (L)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/354
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORTS + (P)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/357
+#EXTINF:-1,LIGA CHILENA: TNT SPORTS SD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/358
+#EXTINF:-1,LIGA CHILENA: TNT SPORTS 2 FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/359
+#EXTINF:-1,LIGA CHILENA: TNT SPORTS 3
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/360
+#EXTINF:-1,38 | ESPN EXTRA | HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/361
+#EXTINF:-1,ESPN SUR | COLOMBIA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/362
+#EXTINF:-1,ESPN 2 SUR | COLOMBIA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/363
+#EXTINF:-1,ESPN 3 SUR | COLOMBIA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/364
+#EXTINF:-1,DIRECTV SPORTS 2 (EC)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/365
+#EXTINF:-1,FOX SPORTS 1 HD AR
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/366
+#EXTINF:-1,FOX SPORTS 2 HD AR
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/367
+#EXTINF:-1,DEPORTES LAT | TNT ESTADIO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/368
+#EXTINF:-1,DEPORTES LAT | TNT SPORTS HD (P)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/369
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 FHD CO (A)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/370
+#EXTINF:-1,Baby First
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/371
+#EXTINF:-1,Baby Tv
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/372
+#EXTINF:-1,Cartoon Network
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/373
+#EXTINF:-1,TDiscovery Theater
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/375
+#EXTINF:-1,Nick | LAT
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/376
+#EXTINF:-1,Nick 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/377
+#EXTINF:-1,Nick Junior
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/378
+#EXTINF:-1,Baby TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/379
+#EXTINF:-1,Baby Tv
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/380
+#EXTINF:-1,Disney Channel
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/381
+#EXTINF:-1,Discovery Kids
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/382
+#EXTINF:-1,BOIN KIDS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/383
+#EXTINF:-1,CO | RCN Novelas
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/384
+#EXTINF:-1,CO | ESPN 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/385
+#EXTINF:-1,CO | Dtv Sports
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/386
+#EXTINF:-1,CO | ESPN
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/387
+#EXTINF:-1,CO | CARACOL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/388
+#EXTINF:-1,(ENCODER) RCN_HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/389
+#EXTINF:-1,COLOMBIA | NTN24 (L)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/390
+#EXTINF:-1,COLOMBIA | CARACOL (A)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/391
+#EXTINF:-1,COLOMBIA | CITY TV (lp)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/392
+#EXTINF:-1,COLOMBIA | RCN (A)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/393
+#EXTINF:-1,COLOMBIA | CABLE NOTICIAS (A)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/394
+#EXTINF:-1,COLOMBIA | CANAL UNO (p)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/395
+#EXTINF:-1,CO | Señal Colombia
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/396
+#EXTINF:-1,CO | Telecaribe
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/397
+#EXTINF:-1,CO | Caracol Internacional
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/398
+#EXTINF:-1,CO | NTN24
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/399
+#EXTINF:-1,Directv Sports HD (Col)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/400
+#EXTINF:-1,11/04  18:30 NBA Game 1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14989
+#EXTINF:-1,11/04  21:00 NBA Game 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14990
+#EXTINF:-1,11/04  17:10 MLB Game 1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14991
+#EXTINF:-1,11/04  17:35 MLB Game 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14992
+#EXTINF:-1,11/04  17:35 MLB Game 3
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14993
+#EXTINF:-1,11/04  17:40 MLB Game 4
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14994
+#EXTINF:-1,11/04  17:40 MLB Game 5
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14995
+#EXTINF:-1,11/04  18:10 MLB Game 6
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14996
+#EXTINF:-1,11/04  18:20 MLB Game 7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14997
+#EXTINF:-1,11/04  18:40 MLB Game 8
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14998
+#EXTINF:-1,11/04  19:05 MLB Game 9
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/14999
+#EXTINF:-1,11/04  19:40 MLB Game 10
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15000
+#EXTINF:-1,11/04  20:38 MLB Game 11
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15001
+#EXTINF:-1,11/04  20:40 MLB Game 12
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15002
+#EXTINF:-1,11/04  20:40 MLB Game 13
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15003
+#EXTINF:-1,11/04  20:45 MLB Game 14
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15004
+#EXTINF:-1,11/04  11:30 Alemania vs Brasil
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15005
+#EXTINF:-1,11/04  11:30 Alemania vs Brasil
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15006
+#EXTINF:-1,11/04  11:30 Alemania vs Brasil
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15007
+#EXTINF:-1,11/04  11:30 Alemania vs Brasil
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15008
+#EXTINF:-1,11/04  12:00 Barracas Central vs Platense
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15009
+#EXTINF:-1,11/04  12:00 Barracas Central vs Platense
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15010
+#EXTINF:-1,11/04  12:00 Barracas Central vs Platense
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15011
+#EXTINF:-1,11/04  12:40 Inglaterra vs Australia
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15012
+#EXTINF:-1,11/04  13:30 Benfica vs Inter Milan
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15013
+#EXTINF:-1,11/04  13:30 Benfica vs Inter Milan
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15014
+#EXTINF:-1,11/04  13:30 Benfica vs Inter Milan
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15015
+#EXTINF:-1,11/04  13:30 Manchester City vs FC Bayern
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15016
+#EXTINF:-1,11/04  13:30 Manchester City vs FC Bayern
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15017
+#EXTINF:-1,11/04  13:30 Manchester City vs FC Bayern
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15018
+#EXTINF:-1,11/04  14:00 FC Francia vs Canadá
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15019
+#EXTINF:-1,11/04  16:10 La Equidad vs Once Caldas
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15020
+#EXTINF:-1,11/04  16:10 La Equidad vs Once Caldas
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15021
+#EXTINF:-1,11/04  16:10 La Equidad vs Once Caldas
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15022
+#EXTINF:-1,11/04  17:00 Argentinos Juniors vs Unión Santa Fe
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15023
+#EXTINF:-1,11/04  17:00 Argentinos Juniors vs Unión Santa Fe
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15024
+#EXTINF:-1,11/04  17:00 Argentinos Juniors vs Unión Santa Fe
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15025
+#EXTINF:-1,11/04  17:30 Detroit vs Carolina
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15026
+#EXTINF:-1,11/04  17:30 Washington vs Boston
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15027
+#EXTINF:-1,11/04  18:10 CA Huila vs Millonarios
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15028
+#EXTINF:-1,11/04  18:10 CA Huila vs Millonarios
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15029
+#EXTINF:-1,11/04  18:10 CA Huila vs Millonarios
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15030
+#EXTINF:-1,11/04  18:10 CA Huila vs Millonarios
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15031
+#EXTINF:-1,11/04  18:30 Jets vs Minnesota
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15032
+#EXTINF:-1,11/04  19:00 Violette Athletic vs Club Leon
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15033
+#EXTINF:-1,11/04  19:30 Instituto vs Vélez Sarsfield
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15034
+#EXTINF:-1,11/04  19:30 Instituto vs Vélez Sarsfield
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15035
+#EXTINF:-1,11/04  19:30 Instituto vs Vélez Sarsfield
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15036
+#EXTINF:-1,11/04  20:20 América de Cali vs Águilas Doradas Rionegro
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15037
+#EXTINF:-1,11/04  20:20 América de Cali vs Águilas Doradas Rionegro
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15038
+#EXTINF:-1,11/04  20:20 América de Cali vs Águilas Doradas Rionegro
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15039
+#EXTINF:-1,11/04  20:30 Seattle vs Vegas
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15040
+#EXTINF:-1,11/04  20:30 Vancouver vs Anaheim
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15041
+#EXTINF:-1,11/04  20:30 Edmonton vs Colorado
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15042
+#EXTINF:-1,11/04  21:00 Los Angeles FC vs Vancouver Whitecaps
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://iptvfast.link:20394
+#EXTVLCOPT:http-user-agent=MUNDOCOL
+#EXTVLCOPT:network-caching=1000
+http://iptvfast.link:20394/Tvapssgostf/641362gdsar/15043
